@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/miniapp_lomo/static/css/main.5169856f.css",
-    "main.js": "/miniapp_lomo/static/js/main.b709c6cf.js",
+    "main.js": "/miniapp_lomo/static/js/main.2d98e257.js",
     "index.html": "/miniapp_lomo/index.html",
     "main.5169856f.css.map": "/miniapp_lomo/static/css/main.5169856f.css.map",
-    "main.b709c6cf.js.map": "/miniapp_lomo/static/js/main.b709c6cf.js.map"
+    "main.2d98e257.js.map": "/miniapp_lomo/static/js/main.2d98e257.js.map"
   },
   "entrypoints": [
     "static/css/main.5169856f.css",
-    "static/js/main.b709c6cf.js"
+    "static/js/main.2d98e257.js"
   ]
 }
